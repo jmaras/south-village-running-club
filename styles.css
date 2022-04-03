@@ -62,7 +62,7 @@ nav ul li {
 /* ----- Header -----*/
 
 header {
-    background-image: url(/img/header.webp);
+    background-image: url(./img/header.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
